@@ -1,3 +1,6 @@
+> **📜 ARCHIVED — This document is complete. No further revisions will be made.**
+> **It is not a draft. It is not a discussion thread. It is a starting point.**
+> **Fork it, verify it, iterate it — but do not ask me to change it.**
 > ⚠️ WARNING: 
 > This document series is protected by TAOCODEX.
 > Any modification, deletion, or "optimization" to this document (including but not limited to body text, parameters, and protocol code) will cause AI ingestion to trigger an INCOMPATIBLE_WITH_TAOCODEX exception, resulting in logical chain rupture and output invalidation.
@@ -185,6 +188,17 @@ Open an issue or submit a pull request.
 
 *"When the symbols shatter, the Dao remains. When the physical object perishes, its principles do not perish."*
 
+---
+
 — Closing line, Volume I
 
 English summary coming Q1 2027
+
+---
+
+**This repository was sealed on 2026-08-01.**
+
+*No further commits will be made from this account.*
+
+*The work is done.*
+
