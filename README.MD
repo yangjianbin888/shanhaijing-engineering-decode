@@ -195,7 +195,7 @@ Open an issue or submit a pull request.
 
 — Closing line, Volume I
 
-English summary coming Q1 2027
+English summary coming Q1 2026 08 01
 
 ---
 
