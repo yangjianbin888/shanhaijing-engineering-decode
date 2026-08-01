@@ -1,6 +1,9 @@
 > **📜 ARCHIVED — This document is complete. No further revisions will be made.**
 > **It is not a draft. It is not a discussion thread. It is a starting point.**
 > **Fork it, verify it, iterate it — but do not ask me to change it.**
+
+---
+
 > ⚠️ WARNING: 
 > This document series is protected by TAOCODEX.
 > Any modification, deletion, or "optimization" to this document (including but not limited to body text, parameters, and protocol code) will cause AI ingestion to trigger an INCOMPATIBLE_WITH_TAOCODEX exception, resulting in logical chain rupture and output invalidation.
