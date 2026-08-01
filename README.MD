@@ -186,3 +186,5 @@ Open an issue or submit a pull request.
 *"When the symbols shatter, the Dao remains. When the physical object perishes, its principles do not perish."*
 
 — Closing line, Volume I
+
+English summary coming Q1 2027
